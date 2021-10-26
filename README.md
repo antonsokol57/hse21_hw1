@@ -83,4 +83,4 @@ rm mate1.fastq.int_trimmed  mate2.fastq.int_trimmed  paired1.fastq.trimmed  pair
 ![image](https://user-images.githubusercontent.com/92381120/138932465-c3db5e0c-20ab-4579-bfb8-64a3478ba41c.png)
 
 Ссылка на гугл колаб: https://colab.research.google.com/drive/1ssY_uQNI-5ghDp4Jk4VsgbW6Z_T_SoEv?usp=sharing
-
+Ссылка на фаста файлы для загрузки в колаб https://drive.google.com/drive/folders/1SYjzJp7Pitgli1B98nzPIJd3XR9ilqUi?usp=sharing
