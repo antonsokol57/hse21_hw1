@@ -57,7 +57,7 @@ platanus gap_close -o Poil -c Poil_scaffold.fa -IP1 paired1.fastq.trimmed paired
 
 rm mate1.fastq.int_trimmed  mate2.fastq.int_trimmed  paired1.fastq.trimmed  paired2.fastq.trimmed
 
-Скриншоты MultiQC Для исходных чтений:
+Скриншоты MultiQC для исходных чтений:
 
 ![image](https://user-images.githubusercontent.com/92381120/138922729-068f371a-f6cf-4941-bbd4-d14db21c0f93.png)
 ![image](https://user-images.githubusercontent.com/92381120/138923019-ccb9bb7b-0820-4a1e-9687-d27beaff829a.png)
@@ -69,4 +69,17 @@ rm mate1.fastq.int_trimmed  mate2.fastq.int_trimmed  paired1.fastq.trimmed  pair
 ![image](https://user-images.githubusercontent.com/92381120/138923854-1121e02e-fa17-4b33-92bc-5f41807507b3.png)
 ![image](https://user-images.githubusercontent.com/92381120/138923903-825f93dd-7811-46fd-82e9-320c28bd5de9.png)
 
+Для подрезанных чтений:
 
+![image](https://user-images.githubusercontent.com/92381120/138931806-539cc0ec-0f10-4b01-9ab8-94303c4dd7d9.png)
+![image](https://user-images.githubusercontent.com/92381120/138931874-c32dc1ec-5a27-42e5-8d85-cee10228b8b3.png)
+![image](https://user-images.githubusercontent.com/92381120/138931953-5d33b12f-47fe-470c-b979-aedebdd1b19a.png)
+![image](https://user-images.githubusercontent.com/92381120/138931997-1c95aeb2-8477-465a-bca5-be7014172292.png)
+![image](https://user-images.githubusercontent.com/92381120/138932078-c6db8410-8cb4-401d-b212-9451caacc8b3.png)
+![image](https://user-images.githubusercontent.com/92381120/138932130-0b57611a-6af7-4f04-879f-e024957b6cec.png)
+![image](https://user-images.githubusercontent.com/92381120/138932183-2e1f52ba-795b-4f11-a836-a6795ed47d07.png)
+![image](https://user-images.githubusercontent.com/92381120/138932242-cb046a51-d37b-4af3-8d65-6cd6080f0b89.png)
+![image](https://user-images.githubusercontent.com/92381120/138932391-9b7eadf4-84d8-496c-800f-58ad282ac38b.png)
+![image](https://user-images.githubusercontent.com/92381120/138932465-c3db5e0c-20ab-4579-bfb8-64a3478ba41c.png)
+
+Ссыылка на гугл колаб: https://colab.research.google.com/drive/1ssY_uQNI-5ghDp4Jk4VsgbW6Z_T_SoEv?usp=sharing
