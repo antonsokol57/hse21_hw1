@@ -47,7 +47,7 @@ platanus assemble -f paired1.fastq.trimmed paired2.fastq.trimme 2> assemble.log
 
 С помощью программы “ platanus scaffold” собираем скаффолды из контигов, а также из подрезанных чтений:
 
-platanus scaffold -o Poil -IP1 paired1.fastq.trimmed paired2.fastq.trimmed -OP2 mate1.fastq.int_trimmed mate2.fastq.int_trimmed 2> scaffold.log
+platanus scaffold -o Poil_contig.fa -c Poil -IP1 paired1.fastq.trimmed paired2.fastq.trimmed -OP2 mate1.fastq.int_trimmed mate2.fastq.int_trimmed 2> scaffold.log
 
 С помощью программы “ platanus gap_close” уменьшаем кол-во гэпов с помощью подрезанных чтений:
 
